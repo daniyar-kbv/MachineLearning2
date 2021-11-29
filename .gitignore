@@ -6,3 +6,7 @@
 *.csv
 *.vscode
 *.joblib
+*.wav
+*.mp3
+*.mp4
+ml-100k
