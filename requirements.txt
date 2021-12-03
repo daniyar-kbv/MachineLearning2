@@ -18,8 +18,10 @@ cffi==1.14.6
 chardet==4.0.0
 charset-normalizer==2.0.6
 click==8.0.3
+colorlover==0.3.0
 coremltools==4.0b3
 coverage==5.5
+cufflinks==0.17.3
 cycler==0.10.0
 cymem==2.0.6
 debugpy==1.4.3
